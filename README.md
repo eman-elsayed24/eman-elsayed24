@@ -1,12 +1,69 @@
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=eman-elsayed24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=eman-elsayed24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eman-elsayed24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:A8E6CF,50:CFF5E7,100:F0FDF4&height=200&section=header&text=Eman%20Noaman&fontSize=52&fontColor=374151&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+
+
+
+
+</div>
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=eman-elsayed24&label=Profile%20Views&color=A8E6CF&labelColor=F0FDF4&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=eman-elsayed24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩🏻‍💻 About Me
+
+Frontend Developer interested in building clean, responsive, and user-friendly web applications.
+
+I focus on reusable components, good UI/UX, performance, accessibility, and clean code.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,git,github" />
+
+</div>
+
+---
+
+## ⚡ Frontend & State Management
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-E8F8F0?style=for-the-badge\&logo=react\&logoColor=374151)
+![Next.js](https://img.shields.io/badge/Next.js-F3F4F6?style=for-the-badge\&logo=next.js\&logoColor=111827)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEF9C3?style=for-the-badge\&logo=javascript\&logoColor=374151)
+![TypeScript](https://img.shields.io/badge/TypeScript-E0F2FE?style=for-the-badge\&logo=typescript\&logoColor=374151)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-DDF7E8?style=for-the-badge\&logo=tailwindcss\&logoColor=374151)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-EDE9FE?style=for-the-badge\&logo=redux\&logoColor=374151)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-E8F8F0?style=for-the-badge\&logo=reactquery\&logoColor=374151)
+
+</div>
+
+---
+
+
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=eman-elsayed24&hide_border=true&background=FFFFFF&ring=6B8F71&fire=84A98C&currStreakLabel=52796F&sideLabels=6B7280&dates=9CA3AF" />
+
+</div>
+
+---
+
+</div>
+
